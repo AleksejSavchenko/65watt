@@ -1,1 +1,1 @@
-<?php var_dump();
+<?php var_dump('Hello world!');
